@@ -1,1 +1,0 @@
-Hello everyone, this is my second application and it is more complicated. I'm still new to Android development, but I will continue my work further. If there are serious problems in the application, please forgive me)
